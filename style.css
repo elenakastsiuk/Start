@@ -1,3 +1,4 @@
-$(function(){
-console.log("YES");
-});
+h1 {
+font-size: 16px;
+}
+p {font-weight}
